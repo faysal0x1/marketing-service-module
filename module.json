@@ -1,0 +1,14 @@
+{
+    "name": "MarketingService",
+    "alias": "marketing-service",
+    "description": "Marketing services and tracking scripts management module",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\MarketingService\\Providers\\MarketingServiceModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+
