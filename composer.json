@@ -24,8 +24,7 @@
             "App\\Modules\\MarketingService\\": ""
         },
         "classmap": [
-            "database/seeders",
-            "database/factories"
+            "database/seeders"
         ]
     },
     "autoload-dev": {
